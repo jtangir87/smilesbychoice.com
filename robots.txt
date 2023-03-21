@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /perch
+
+User-agent: Mediapartners-Google*
+Disallow:
+
+Sitemap: http://www.smilesbychoice.com/sitemap.xml
